@@ -4,20 +4,22 @@ using System.Text;
 
 namespace BilletLibrary
 {
-    public class MC
+    public class MC : Vehicle
     {
         /// <summary>
-        /// MC Klasse som indeholder vores propities Nummerplade og Dato samt to metoder til at returnere pris og køretøjs type. 
+        /// Car Klasse som indeholder vores propities Nummerplade og Dato samt to metoder til at returnere pris og køretøjs type. 
         /// </summary>
 
-        public string Numberplate;
-        public DateTime Date;
+        public override string Numberplate { get; set; }
 
-        public decimal price()
+        public override DateTime Date { get; set; }
+
+        public override decimal price()
         {
             return 125;
         }
-        public String vehicle()
+
+        public override string vehicle()
         {
             return "MC";
         }

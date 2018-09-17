@@ -30,5 +30,6 @@ namespace BilletLibrary.test
 
             Assert.AreEqual("MC", vehicle);
         }
+
     }
 }

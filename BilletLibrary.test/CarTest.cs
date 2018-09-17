@@ -28,5 +28,26 @@ namespace BilletLibrary.test
 
             Assert.AreEqual("Car", vehicle);
         }
+
+        [TestMethod]
+        public void CarNumberplateTest()
+        {
+            Car car = new Car();
+
+            car.Numberplate = "ABC1234";
+
+            Assert.AreEqual("ABC1234", car.Numberplate);
+        }
+        
+        [TestMethod]
+        public void CarNumberplateFailTest()
+        {
+            Car car = new Car();
+
+            car.Numberplate = "ABC12345";
+
+            Assert.AreNotEqual("ABC12345", car.Numberplate);
+        }
+
     }
 }
