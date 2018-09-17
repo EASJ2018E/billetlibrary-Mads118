@@ -1,0 +1,9 @@
+C:\source\billetlibrary-Mads118\BilletLibrary\bin\Debug\netstandard2.0\BilletLibrary.deps.json
+C:\source\billetlibrary-Mads118\BilletLibrary\bin\Debug\netstandard2.0\BilletLibrary.dll
+C:\source\billetlibrary-Mads118\BilletLibrary\bin\Debug\netstandard2.0\BilletLibrary.pdb
+C:\source\billetlibrary-Mads118\BilletLibrary\obj\Debug\netstandard2.0\BilletLibrary.csprojAssemblyReference.cache
+C:\source\billetlibrary-Mads118\BilletLibrary\obj\Debug\netstandard2.0\BilletLibrary.csproj.CoreCompileInputs.cache
+C:\source\billetlibrary-Mads118\BilletLibrary\obj\Debug\netstandard2.0\BilletLibrary.AssemblyInfoInputs.cache
+C:\source\billetlibrary-Mads118\BilletLibrary\obj\Debug\netstandard2.0\BilletLibrary.AssemblyInfo.cs
+C:\source\billetlibrary-Mads118\BilletLibrary\obj\Debug\netstandard2.0\BilletLibrary.dll
+C:\source\billetlibrary-Mads118\BilletLibrary\obj\Debug\netstandard2.0\BilletLibrary.pdb

@@ -1,0 +1,17 @@
+C:\source\billetlibrary-Mads118\BilletLibrary.test\obj\Debug\netcoreapp2.1\BilletLibrary.test.csprojAssemblyReference.cache
+C:\source\billetlibrary-Mads118\BilletLibrary.test\obj\Debug\netcoreapp2.1\BilletLibrary.test.csproj.CoreCompileInputs.cache
+C:\source\billetlibrary-Mads118\BilletLibrary.test\obj\Debug\netcoreapp2.1\BilletLibrary.test.AssemblyInfoInputs.cache
+C:\source\billetlibrary-Mads118\BilletLibrary.test\obj\Debug\netcoreapp2.1\BilletLibrary.test.AssemblyInfo.cs
+C:\source\billetlibrary-Mads118\BilletLibrary.test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\source\billetlibrary-Mads118\BilletLibrary.test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\source\billetlibrary-Mads118\BilletLibrary.test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\source\billetlibrary-Mads118\BilletLibrary.test\bin\Debug\netcoreapp2.1\BilletLibrary.test.deps.json
+C:\source\billetlibrary-Mads118\BilletLibrary.test\bin\Debug\netcoreapp2.1\BilletLibrary.test.runtimeconfig.json
+C:\source\billetlibrary-Mads118\BilletLibrary.test\bin\Debug\netcoreapp2.1\BilletLibrary.test.runtimeconfig.dev.json
+C:\source\billetlibrary-Mads118\BilletLibrary.test\bin\Debug\netcoreapp2.1\BilletLibrary.test.dll
+C:\source\billetlibrary-Mads118\BilletLibrary.test\bin\Debug\netcoreapp2.1\BilletLibrary.test.pdb
+C:\source\billetlibrary-Mads118\BilletLibrary.test\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\source\billetlibrary-Mads118\BilletLibrary.test\bin\Debug\netcoreapp2.1\BilletLibrary.pdb
+C:\source\billetlibrary-Mads118\BilletLibrary.test\obj\Debug\netcoreapp2.1\BilletLibrary.test.csproj.CopyComplete
+C:\source\billetlibrary-Mads118\BilletLibrary.test\obj\Debug\netcoreapp2.1\BilletLibrary.test.dll
+C:\source\billetlibrary-Mads118\BilletLibrary.test\obj\Debug\netcoreapp2.1\BilletLibrary.test.pdb

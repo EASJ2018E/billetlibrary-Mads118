@@ -4,10 +4,10 @@ using System.Text;
 
 namespace BilletLibrary
 {
-    class Car
+    public class Car
     {
         /// <summary>
-        /// Klasse som indeholder vores propities Nummerplade og Dato samt to metoder til at returnere pris og køretøjs type. 
+        /// Car Klasse som indeholder vores propities Nummerplade og Dato samt to metoder til at returnere pris og køretøjs type. 
         /// </summary>
 
         public string Numberplate;
@@ -17,9 +17,9 @@ namespace BilletLibrary
         {
             return 240;
         }
-        public String Vehicle()
+        public String vehicle()
         {
-            return "car"; 
+            return "Car"; 
         }
     }
 }

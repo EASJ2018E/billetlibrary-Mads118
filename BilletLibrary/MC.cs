@@ -4,10 +4,10 @@ using System.Text;
 
 namespace BilletLibrary
 {
-    class MC
+    public class MC
     {
         /// <summary>
-        /// Klasse som indeholder vores propities Nummerplade og Dato samt to metoder til at returnere pris og køretøjs type. 
+        /// MC Klasse som indeholder vores propities Nummerplade og Dato samt to metoder til at returnere pris og køretøjs type. 
         /// </summary>
 
         public string Numberplate;
@@ -17,7 +17,7 @@ namespace BilletLibrary
         {
             return 125;
         }
-        public String Vehicle()
+        public String vehicle()
         {
             return "MC";
         }
