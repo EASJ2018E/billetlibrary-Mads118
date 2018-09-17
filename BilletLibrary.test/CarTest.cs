@@ -39,15 +39,18 @@ namespace BilletLibrary.test
             Assert.AreEqual("ABC1234", car.Numberplate);
         }
         
+        //Virker ikke :( 
         [TestMethod]
+        [ExpectedException(typeof(ArgumentOutOfRangeException))]
         public void CarNumberplateFailTest()
         {
             Car car = new Car();
 
             car.Numberplate = "ABC12345";
 
-            Assert.AreNotEqual("ABC12345", car.Numberplate);
-        }
+            Assert.Fail();
 
+        }
+        
     }
 }
